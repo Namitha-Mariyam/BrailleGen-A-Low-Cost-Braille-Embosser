@@ -1,0 +1,1 @@
+pip install google-generativeai easyocr opencv-python numpy pyserial python-pptx pdf2image pillow
